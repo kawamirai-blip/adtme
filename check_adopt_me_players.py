@@ -4,6 +4,11 @@ Check if users are members of the Adopt Me group
 Fast batch checker for 20k users
 """fefef
 
+
+def lort():
+    pass 
+
+
 import requests
 import csv
 import json
